@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Mocha Dark
+    Author:     Chris Kempson (http://chriskempson.com)
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-monokai.CodeMirror {background: #3B3228; color: #e9e1dd;}
+.cm-s-monokai div.CodeMirror-selected {background: #534636 !important;}
+.cm-s-monokai .CodeMirror-gutters {background: #3B3228; border-right: 0px;}
+.cm-s-monokai .CodeMirror-linenumber {color: #7e705a;}
+.cm-s-monokai .CodeMirror-cursor {border-left: 1px solid #b8afad !important;}
+
+.cm-s-monokai span.cm-comment {color: #bb9584;}
+.cm-s-monokai span.cm-atom {color: #a89bb9;}
+.cm-s-monokai span.cm-number {color: #a89bb9;}
+
+.cm-s-monokai span.cm-property, .cm-s-monokai span.cm-attribute {color: #beb55b;}
+.cm-s-monokai span.cm-keyword {color: #cb6077;}
+.cm-s-monokai span.cm-string {color: #f4bc87;}
+
+.cm-s-monokai span.cm-variable {color: #beb55b;}
+.cm-s-monokai span.cm-variable-2 {color: #8ab3b5;}
+.cm-s-monokai span.cm-def {color: #d28b71;}
+.cm-s-monokai span.cm-error {background: #cb6077; color: #b8afad;}
+.cm-s-monokai span.cm-bracket {color: #e9e1dd;}
+.cm-s-monokai span.cm-tag {color: #cb6077;}
+.cm-s-monokai span.cm-link {color: #a89bb9;}
+
+.cm-s-monokai .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
