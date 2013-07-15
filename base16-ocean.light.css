@@ -8,7 +8,7 @@
 
 */
 
-.cm-s-base-16-ocean-light.CodeMirror {background: #eff1f5; color: #343d46;}
+.cm-s-base16-ocean-light.CodeMirror {background: #eff1f5; color: #343d46;}
 .cm-s-base16-ocean-light div.CodeMirror-selected {background: #dfe1e8 !important;}
 .cm-s-base16-ocean-light .CodeMirror-gutters {background: #eff1f5; border-right: 0px;}
 .cm-s-base16-ocean-light .CodeMirror-linenumber {color: #a7adba;}

@@ -8,7 +8,7 @@
 
 */
 
-.cm-s-base-16-railscasts-light.CodeMirror {background: #f9f7f3; color: #272935;}
+.cm-s-base16-railscasts-light.CodeMirror {background: #f9f7f3; color: #272935;}
 .cm-s-base16-railscasts-light div.CodeMirror-selected {background: #f4f1ed !important;}
 .cm-s-base16-railscasts-light .CodeMirror-gutters {background: #f9f7f3; border-right: 0px;}
 .cm-s-base16-railscasts-light .CodeMirror-linenumber {color: #d4cfc9;}

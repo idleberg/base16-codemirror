@@ -8,7 +8,7 @@
 
 */
 
-.cm-s-base-16-solarized-light.CodeMirror {background: #fdf6e3; color: #073642;}
+.cm-s-base16-solarized-light.CodeMirror {background: #fdf6e3; color: #073642;}
 .cm-s-base16-solarized-light div.CodeMirror-selected {background: #eee8d5 !important;}
 .cm-s-base16-solarized-light .CodeMirror-gutters {background: #fdf6e3; border-right: 0px;}
 .cm-s-base16-solarized-light .CodeMirror-linenumber {color: #839496;}

@@ -8,7 +8,7 @@
 
 */
 
-.cm-s-base-16-mocha-light.CodeMirror {background: #f5eeeb; color: #534636;}
+.cm-s-base16-mocha-light.CodeMirror {background: #f5eeeb; color: #534636;}
 .cm-s-base16-mocha-light div.CodeMirror-selected {background: #e9e1dd !important;}
 .cm-s-base16-mocha-light .CodeMirror-gutters {background: #f5eeeb; border-right: 0px;}
 .cm-s-base16-mocha-light .CodeMirror-linenumber {color: #b8afad;}

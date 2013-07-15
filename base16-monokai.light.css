@@ -8,7 +8,7 @@
 
 */
 
-.cm-s-base-16-monokai-light.CodeMirror {background: #f9f8f5; color: #383830;}
+.cm-s-base16-monokai-light.CodeMirror {background: #f9f8f5; color: #383830;}
 .cm-s-base16-monokai-light div.CodeMirror-selected {background: #f5f4f1 !important;}
 .cm-s-base16-monokai-light .CodeMirror-gutters {background: #f9f8f5; border-right: 0px;}
 .cm-s-base16-monokai-light .CodeMirror-linenumber {color: #a59f85;}
