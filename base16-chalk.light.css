@@ -8,26 +8,26 @@
 
 */
 
-.cm-s-chalk-light.CodeMirror {background: #f5f5f5; color: #202020;}
-.cm-s-chalk-light div.CodeMirror-selected {background: #e0e0e0 !important;}
-.cm-s-chalk-light .CodeMirror-gutters {background: #f5f5f5; border-right: 0px;}
-.cm-s-chalk-light .CodeMirror-linenumber {color: #b0b0b0;}
-.cm-s-chalk-light .CodeMirror-cursor {border-left: 1px solid #505050 !important;}
+.cm-s-base-16-chalk-light.CodeMirror {background: #f5f5f5; color: #202020;}
+.cm-s-base16-chalk-light div.CodeMirror-selected {background: #e0e0e0 !important;}
+.cm-s-base16-chalk-light .CodeMirror-gutters {background: #f5f5f5; border-right: 0px;}
+.cm-s-base16-chalk-light .CodeMirror-linenumber {color: #b0b0b0;}
+.cm-s-base16-chalk-light .CodeMirror-cursor {border-left: 1px solid #505050 !important;}
 
-.cm-s-chalk-light span.cm-comment {color: #deaf8f;}
-.cm-s-chalk-light span.cm-atom {color: #e1a3ee;}
-.cm-s-chalk-light span.cm-number {color: #e1a3ee;}
+.cm-s-base16-chalk-light span.cm-comment {color: #deaf8f;}
+.cm-s-base16-chalk-light span.cm-atom {color: #e1a3ee;}
+.cm-s-base16-chalk-light span.cm-number {color: #e1a3ee;}
 
-.cm-s-chalk-light span.cm-property, .cm-s-chalk-light span.cm-attribute {color: #acc267;}
-.cm-s-chalk-light span.cm-keyword {color: #fb9fb1;}
-.cm-s-chalk-light span.cm-string {color: #ddb26f;}
+.cm-s-base16-chalk-light span.cm-property, .cm-s-base16-chalk-light span.cm-attribute {color: #acc267;}
+.cm-s-base16-chalk-light span.cm-keyword {color: #fb9fb1;}
+.cm-s-base16-chalk-light span.cm-string {color: #ddb26f;}
 
-.cm-s-chalk-light span.cm-variable {color: #acc267;}
-.cm-s-chalk-light span.cm-variable-2 {color: #6fc2ef;}
-.cm-s-chalk-light span.cm-def {color: #eda987;}
-.cm-s-chalk-light span.cm-error {background: #fb9fb1; color: #505050;}
-.cm-s-chalk-light span.cm-bracket {color: #202020;}
-.cm-s-chalk-light span.cm-tag {color: #fb9fb1;}
-.cm-s-chalk-light span.cm-link {color: #e1a3ee;}
+.cm-s-base16-chalk-light span.cm-variable {color: #acc267;}
+.cm-s-base16-chalk-light span.cm-variable-2 {color: #6fc2ef;}
+.cm-s-base16-chalk-light span.cm-def {color: #eda987;}
+.cm-s-base16-chalk-light span.cm-error {background: #fb9fb1; color: #505050;}
+.cm-s-base16-chalk-light span.cm-bracket {color: #202020;}
+.cm-s-base16-chalk-light span.cm-tag {color: #fb9fb1;}
+.cm-s-base16-chalk-light span.cm-link {color: #e1a3ee;}
 
-.cm-s-chalk-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
+.cm-s-base16-chalk-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
