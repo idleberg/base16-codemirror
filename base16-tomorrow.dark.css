@@ -8,26 +8,26 @@
 
 */
 
-.cm-s-monokai.CodeMirror {background: #1d1f21; color: #e0e0e0;}
-.cm-s-monokai div.CodeMirror-selected {background: #282a2e !important;}
-.cm-s-monokai .CodeMirror-gutters {background: #1d1f21; border-right: 0px;}
-.cm-s-monokai .CodeMirror-linenumber {color: #969896;}
-.cm-s-monokai .CodeMirror-cursor {border-left: 1px solid #b4b7b4 !important;}
+.cm-s-tomorrow-dark.CodeMirror {background: #1d1f21; color: #e0e0e0;}
+.cm-s-tomorrow-dark div.CodeMirror-selected {background: #282a2e !important;}
+.cm-s-tomorrow-dark .CodeMirror-gutters {background: #1d1f21; border-right: 0px;}
+.cm-s-tomorrow-dark .CodeMirror-linenumber {color: #969896;}
+.cm-s-tomorrow-dark .CodeMirror-cursor {border-left: 1px solid #b4b7b4 !important;}
 
-.cm-s-monokai span.cm-comment {color: #a3685a;}
-.cm-s-monokai span.cm-atom {color: #b294bb;}
-.cm-s-monokai span.cm-number {color: #b294bb;}
+.cm-s-tomorrow-dark span.cm-comment {color: #a3685a;}
+.cm-s-tomorrow-dark span.cm-atom {color: #b294bb;}
+.cm-s-tomorrow-dark span.cm-number {color: #b294bb;}
 
-.cm-s-monokai span.cm-property, .cm-s-monokai span.cm-attribute {color: #b5bd68;}
-.cm-s-monokai span.cm-keyword {color: #cc6666;}
-.cm-s-monokai span.cm-string {color: #f0c674;}
+.cm-s-tomorrow-dark span.cm-property, .cm-s-tomorrow-dark span.cm-attribute {color: #b5bd68;}
+.cm-s-tomorrow-dark span.cm-keyword {color: #cc6666;}
+.cm-s-tomorrow-dark span.cm-string {color: #f0c674;}
 
-.cm-s-monokai span.cm-variable {color: #b5bd68;}
-.cm-s-monokai span.cm-variable-2 {color: #81a2be;}
-.cm-s-monokai span.cm-def {color: #de935f;}
-.cm-s-monokai span.cm-error {background: #cc6666; color: #b4b7b4;}
-.cm-s-monokai span.cm-bracket {color: #e0e0e0;}
-.cm-s-monokai span.cm-tag {color: #cc6666;}
-.cm-s-monokai span.cm-link {color: #b294bb;}
+.cm-s-tomorrow-dark span.cm-variable {color: #b5bd68;}
+.cm-s-tomorrow-dark span.cm-variable-2 {color: #81a2be;}
+.cm-s-tomorrow-dark span.cm-def {color: #de935f;}
+.cm-s-tomorrow-dark span.cm-error {background: #cc6666; color: #b4b7b4;}
+.cm-s-tomorrow-dark span.cm-bracket {color: #e0e0e0;}
+.cm-s-tomorrow-dark span.cm-tag {color: #cc6666;}
+.cm-s-tomorrow-dark span.cm-link {color: #b294bb;}
 
-.cm-s-monokai .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
+.cm-s-tomorrow-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
