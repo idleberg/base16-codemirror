@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 3024 Light
+    Author:     Jan T. Sott (http://github.com/idleberg)
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-3024-light.CodeMirror {background: #f7f7f7; color: #3a3432;}
+.cm-s-base16-3024-light div.CodeMirror-selected {background: #d6d5d4 !important;}
+.cm-s-base16-3024-light .CodeMirror-gutters {background: #f7f7f7; border-right: 0px;}
+.cm-s-base16-3024-light .CodeMirror-linenumber {color: #807d7c;}
+.cm-s-base16-3024-light .CodeMirror-cursor {border-left: 1px solid #5c5855 !important;}
+
+.cm-s-base16-3024-light span.cm-comment {color: #cdab53;}
+.cm-s-base16-3024-light span.cm-atom {color: #a16a94;}
+.cm-s-base16-3024-light span.cm-number {color: #a16a94;}
+
+.cm-s-base16-3024-light span.cm-property, .cm-s-base16-3024-light span.cm-attribute {color: #01a252;}
+.cm-s-base16-3024-light span.cm-keyword {color: #db2d20;}
+.cm-s-base16-3024-light span.cm-string {color: #fded02;}
+
+.cm-s-base16-3024-light span.cm-variable {color: #01a252;}
+.cm-s-base16-3024-light span.cm-variable-2 {color: #01a0e4;}
+.cm-s-base16-3024-light span.cm-def {color: #e8bbd0;}
+.cm-s-base16-3024-light span.cm-error {background: #db2d20; color: #5c5855;}
+.cm-s-base16-3024-light span.cm-bracket {color: #3a3432;}
+.cm-s-base16-3024-light span.cm-tag {color: #db2d20;}
+.cm-s-base16-3024-light span.cm-link {color: #a16a94;}
+
+.cm-s-base16-3024-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
