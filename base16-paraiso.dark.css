@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Paraíso Dark
+    Author:     Jan T. Sott
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-paraiso-dark.CodeMirror {background: #2f1e2e; color: #b9b6b0;}
+.cm-s-base16-paraiso-dark div.CodeMirror-selected {background: #41323f !important;}
+.cm-s-base16-paraiso-dark .CodeMirror-gutters {background: #2f1e2e; border-right: 0px;}
+.cm-s-base16-paraiso-dark .CodeMirror-linenumber {color: #776e71;}
+.cm-s-base16-paraiso-dark .CodeMirror-cursor {border-left: 1px solid #8d8687 !important;}
+
+.cm-s-base16-paraiso-dark span.cm-comment {color: #e96ba8;}
+.cm-s-base16-paraiso-dark span.cm-atom {color: #815ba4;}
+.cm-s-base16-paraiso-dark span.cm-number {color: #815ba4;}
+
+.cm-s-base16-paraiso-dark span.cm-property, .cm-s-base16-paraiso-dark span.cm-attribute {color: #48b685;}
+.cm-s-base16-paraiso-dark span.cm-keyword {color: #ef6155;}
+.cm-s-base16-paraiso-dark span.cm-string {color: #fec418;}
+
+.cm-s-base16-paraiso-dark span.cm-variable {color: #48b685;}
+.cm-s-base16-paraiso-dark span.cm-variable-2 {color: #06b6ef;}
+.cm-s-base16-paraiso-dark span.cm-def {color: #f99b15;}
+.cm-s-base16-paraiso-dark span.cm-error {background: #ef6155; color: #8d8687;}
+.cm-s-base16-paraiso-dark span.cm-bracket {color: #b9b6b0;}
+.cm-s-base16-paraiso-dark span.cm-tag {color: #ef6155;}
+.cm-s-base16-paraiso-dark span.cm-link {color: #815ba4;}
+
+.cm-s-base16-paraiso-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
