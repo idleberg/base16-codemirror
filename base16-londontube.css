@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 London Tube
+    Author:     Jan T. Sott
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-londontube.CodeMirror {background: #ffffff; color: #1c3f95;}
+.cm-s-base16-londontube div.CodeMirror-selected {background: #e7e7e8 !important;}
+.cm-s-base16-londontube .CodeMirror-gutters {background: #ffffff; border-right: 0px;}
+.cm-s-base16-londontube .CodeMirror-linenumber {color: #959ca1;}
+.cm-s-base16-londontube .CodeMirror-cursor {border-left: 1px solid #737171 !important;}
+
+.cm-s-base16-londontube span.cm-comment {color: #b06110;}
+.cm-s-base16-londontube span.cm-atom {color: #98005d;}
+.cm-s-base16-londontube span.cm-number {color: #98005d;}
+
+.cm-s-base16-londontube span.cm-property, .cm-s-base16-londontube span.cm-attribute {color: #00853e;}
+.cm-s-base16-londontube span.cm-keyword {color: #ee2e24;}
+.cm-s-base16-londontube span.cm-string {color: #ffd204;}
+
+.cm-s-base16-londontube span.cm-variable {color: #00853e;}
+.cm-s-base16-londontube span.cm-variable-2 {color: #009ddc;}
+.cm-s-base16-londontube span.cm-def {color: #f386a1;}
+.cm-s-base16-londontube span.cm-error {background: #ee2e24; color: #737171;}
+.cm-s-base16-londontube span.cm-bracket {color: #1c3f95;}
+.cm-s-base16-londontube span.cm-tag {color: #ee2e24;}
+.cm-s-base16-londontube span.cm-link {color: #98005d;}
+
+.cm-s-base16-londontube .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
