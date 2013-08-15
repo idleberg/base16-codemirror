@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Apple Pips Dark
+    Author:     Jan T. Sott (http://github.com/idleberg)
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-applepips-dark.CodeMirror {background: #374546; color: #d5d5d5;}
+.cm-s-base16-applepips-dark div.CodeMirror-selected {background: #5a6161 !important;}
+.cm-s-base16-applepips-dark .CodeMirror-gutters {background: #374546; border-right: 0px;}
+.cm-s-base16-applepips-dark .CodeMirror-linenumber {color: #7d8182;}
+.cm-s-base16-applepips-dark .CodeMirror-cursor {border-left: 1px solid #929495 !important;}
+
+.cm-s-base16-applepips-dark span.cm-comment {color: #dacb6c;}
+.cm-s-base16-applepips-dark span.cm-atom {color: #ef91a1;}
+.cm-s-base16-applepips-dark span.cm-number {color: #ef91a1;}
+
+.cm-s-base16-applepips-dark span.cm-property, .cm-s-base16-applepips-dark span.cm-attribute {color: #78bb86;}
+.cm-s-base16-applepips-dark span.cm-keyword {color: #e92d46;}
+.cm-s-base16-applepips-dark span.cm-string {color: #efb554;}
+
+.cm-s-base16-applepips-dark span.cm-variable {color: #78bb86;}
+.cm-s-base16-applepips-dark span.cm-variable-2 {color: #00afd6;}
+.cm-s-base16-applepips-dark span.cm-def {color: #e16712;}
+.cm-s-base16-applepips-dark span.cm-error {background: #e92d46; color: #929495;}
+.cm-s-base16-applepips-dark span.cm-bracket {color: #d5d5d5;}
+.cm-s-base16-applepips-dark span.cm-tag {color: #e92d46;}
+.cm-s-base16-applepips-dark span.cm-link {color: #ef91a1;}
+
+.cm-s-base16-applepips-dark .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
