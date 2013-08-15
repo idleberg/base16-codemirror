@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Harper Dark
+    Author:     Jan T. Sott
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-chrome-devtools)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-harper.CodeMirror {background: #010101; color: #c2bfb6;}
+.cm-s-base16-harper div.CodeMirror-selected {background: #32302f !important;}
+.cm-s-base16-harper .CodeMirror-gutters {background: #010101; border-right: 0px;}
+.cm-s-base16-harper .CodeMirror-linenumber {color: #726e6a;}
+.cm-s-base16-harper .CodeMirror-cursor {border-left: 1px solid #8c8983 !important;}
+
+.cm-s-base16-harper span.cm-comment {color: #d1a22e;}
+.cm-s-base16-harper span.cm-atom {color: #b296c6;}
+.cm-s-base16-harper span.cm-number {color: #b296c6;}
+
+.cm-s-base16-harper span.cm-property, .cm-s-base16-harper span.cm-attribute {color: #7fb5e1;}
+.cm-s-base16-harper span.cm-keyword {color: #f8b63f;}
+.cm-s-base16-harper span.cm-string {color: #d6da25;}
+
+.cm-s-base16-harper span.cm-variable {color: #7fb5e1;}
+.cm-s-base16-harper span.cm-variable-2 {color: #489e48;}
+.cm-s-base16-harper span.cm-def {color: #f05932;}
+.cm-s-base16-harper span.cm-error {background: #f8b63f; color: #8c8983;}
+.cm-s-base16-harper span.cm-bracket {color: #c2bfb6;}
+.cm-s-base16-harper span.cm-tag {color: #f8b63f;}
+.cm-s-base16-harper span.cm-link {color: #b296c6;}
+
+.cm-s-base16-harper .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
